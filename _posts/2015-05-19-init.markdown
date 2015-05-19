@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      ReViGo
+date:       2015-05-19 17:13:19
+summary:    Some background information on my PhD project.
+categories: posts
+---
+
+In time Vincent van Gogh's (1853-1890) works have significantly changed in appearance due to color degradation. Digital reconstructions that are firmly based on in-depth studies of the colors used, will help to envisage how the artist's works may have looked at the time of creation, prior to the effects of discoloration. Using advanced digital methods, the virtual reconstructions will be rendered for different lighting conditions. A number of carefully chosen case examples will form the basis of this study. A hand in hand approach will be taken towards the research, conservation and treatment of works included in this project. Although starting from Van Gogh, the interdisciplinary REVIGO (REassessing VIncent van GOgh) project pertains in particular to the broader scope of late nineteenth century art works, as well as to the conservation and restoration of drawings and paintings in general. The project addresses diverse aspects, including (i) the effect of digital reconstructions on the appreciation and interpretation of art works, (ii) the identification of appropriate conservation and restoration treatment strategies for drawings and paintings, and (iii) the implications for future preservation and display."
+
+<http://www.nwo.nl/onderzoek-en-resultaten/onderzoeksprojecten/35/2300169035.html>
