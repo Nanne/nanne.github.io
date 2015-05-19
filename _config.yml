@@ -4,7 +4,7 @@ email:       nanne@uvt.nl
 author:      Nanne van Noord
 description: "A website."
 baseurl:     ""
-url:         "http://http://nanne.github.io/"
+url:         "nanne.github.io"
 
 # Google analytics
 google_analytics:

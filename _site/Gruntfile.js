@@ -13,8 +13,8 @@ module.exports = function(grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:James-Oldfield/jamesoldfield2015.git',
-          branch: 'gh-pages'
+          remote: 'git@github.com:nanne/nanne.github.io.git',
+          branch: 'master'
         }
       }
     }
