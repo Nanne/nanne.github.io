@@ -50,29 +50,3 @@ permalink:    pretty
 paginate:     3
 sass:
   compressed: true
-
-scholar:
-  style: springer-basic-author-date
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: ./_bibliography
-  bibliography: references.bib
-  bibliography_template: bib
-
-  repository: papers
-  bibtex_skip_fields: 
-      - url
-      - abstract
-      - month_numeric
-
-  replace_strings: true
-  join_strings:    true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
