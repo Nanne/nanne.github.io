@@ -1,12 +1,11 @@
 ---
+layout: page
 title: Publications
 ---
 
-### Publications
-
 * van Noord N, Postma E (2017) Learning scale-variant and scale-invariant features for deep image classification. Pattern Recognition. [Link](http://www.sciencedirect.com/science/article/pii/S0031320316301224)
 
-* van Noord N, Hendriks E, Postma E (2015) Towards discovery of the artist’s style: Learning to recognise artists by their artworks. IEEE Signal Processing Magazine. [Preprint](papers/Noord2015.pdf)
+* van Noord N, Hendriks E, Postma E (2015) Towards discovery of the artist’s style: Learning to recognise artists by their artworks. IEEE Signal Processing Magazine. [Preprint](/papers/Noord2015.pdf)
 
 * van Zaanen M, van Noord N (2014) Evaluation of selection in context-free grammar learning systems. The 12th International Conference on Grammatical Inference 193–206.
 
