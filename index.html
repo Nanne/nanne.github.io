@@ -1,24 +1,31 @@
 ---
-layout: default
+layout: 
 ---
 
-<div class="home">
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+  <div class="site-wrap">
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post">
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
+    <header class="site-jumbo">
+      <div class="wrap center">
+          <a href="/" class="h1">Nanne</a>
+          <div class="mb1 h4">
+          {{ site.description }}
+          </div>
+          <div class="fa-2x">
+          {% if site.show_social_icons %}
+            {% include social_links.html %}
           {% endif %}
-        </p>
+          </div>
+          <div class="jumbo-nav p1">
+          {% include navigation.html %}
+          </div>
       </div>
-    {% endfor %}
+    </header>
+
   </div>
 
-  {% include pagination.html %}
-</div>
+</body>
+</html>
