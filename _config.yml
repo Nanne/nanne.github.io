@@ -1,12 +1,12 @@
-# Site settings
-title:       "Nanne"
+theme: jekyll-theme-tactile
+title:       "Homepage"
 email:       nanne@uvt.nl
 author:      Nanne van Noord
 url:         "http://nanne.github.io"
-description: "Everything about me in one spot!"
+description: "Page with very little info about me"
+show_downloads: "false"
 
 # Social icons
-show_social_icons: true
 github_username: nanne
 scholar_username: wFDJzDkAAAAJ
 twitter_username: nannevn

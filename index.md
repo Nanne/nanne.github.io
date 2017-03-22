@@ -1,7 +1,16 @@
----
-layout: page
-title: Publications
----
+
+Hi, I'm Nanne van Noord and I'm a PhD at the 
+[Tilburg Center for Cognition and Communication](http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/)
+and I'm mostly interested in:
+
+* Machine Learning
+* Representation Learning
+* Computer Vision
+* Digital Cultural Heritage
+
+## Publications
+
+<div id="publications" markdown="1">
 
 * van Noord N, Postma E (2017) Learning scale-variant and scale-invariant features for deep image classification. Pattern Recognition. [Link](http://www.sciencedirect.com/science/article/pii/S0031320316301224)
 
@@ -25,4 +34,4 @@ title: Publications
 
 * Aminian M, Avontuur T, Azar Z, and others (2012) Assigning part-of-speech to Dutch tweets. In: Proceedings of the LREC workshop: @NLP can u tag #user_generated_content?!, Istanbul, Turkey. s.n., s.l., pp 9–14
 
-
+</div>
