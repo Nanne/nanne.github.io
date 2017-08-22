@@ -12,9 +12,11 @@ and I'm mostly interested in:
 
 <div id="publications" markdown="1">
 
-* van Noord N, Postma E (2017) Learning scale-variant and scale-invariant features for deep image classification. Pattern Recognition. [Link](http://www.sciencedirect.com/science/article/pii/S0031320316301224)
+* N van Noord, E Postma (2017) A learned representation of artist specific colourisation. ICCV Workshop on e-Heritage. [Link](/papers/conditcolour2017.pdf)
 
-* van Noord N, Hendriks E, Postma E (2015) Towards discovery of the artist’s style: Learning to recognise artists by their artworks. IEEE Signal Processing Magazine. [Preprint](/papers/Noord2015.pdf)
+* N van Noord, E Postma (2017) Learning scale-variant and scale-invariant features for deep image classification. Pattern Recognition. [Link](http://www.sciencedirect.com/science/article/pii/S0031320316301224)
+
+* N van Noord, E Hendriks, E Postma (2015) Towards discovery of the artist’s style: Learning to recognise artists by their artworks. IEEE Signal Processing Magazine. [Preprint](/papers/Noord2015.pdf)
 
 * van Zaanen M, van Noord N (2014) Evaluation of selection in context-free grammar learning systems. The 12th International Conference on Grammatical Inference 193–206.
 
