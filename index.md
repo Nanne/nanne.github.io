@@ -1,7 +1,7 @@
 
-Hi, I'm Nanne van Noord and I'm a PhD at the 
-[Tilburg Center for Cognition and Communication](http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/)
-and I'm mostly interested in:
+Hi, I'm Nanne van Noord and I'm a Postdoc at the 
+[Intelligent Sensory Information Systems](https://ivi.fnwi.uva.nl/isis/index.html) 
+group at the University of Amsterdami and I'm mostly interested in:
 
 * Machine Learning
 * Representation Learning
