@@ -8,6 +8,8 @@ group at the University of Amsterdam and I'm mostly interested in:
 * Computer Vision
 * Digital Cultural Heritage
 
+I wrote my PhD thesis at Tilburg University on representation learning for artistic style, the digital version of which can be found [here](/papers/fulldissertation_NvN2018.pdf).
+
 ## Publications
 
 <div id="publications" markdown="1">
