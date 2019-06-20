@@ -6,13 +6,15 @@ group at the University of Amsterdam and I'm mostly interested in:
 * Machine Learning
 * Representation Learning
 * Computer Vision
-* Digital Cultural Heritage
+* (Digital) Cultural Heritage
 
 I wrote my PhD thesis at Tilburg University on representation learning for artistic style, the digital version of which can be found [here](/papers/thesis.pdf).
 
 ## Publications
 
 <div id="publications" markdown="1">
+
+* G Strezoski, N van Noord, M Worring (2019) Learning Task Relatedness in Multi-Task Learning for Images in Context. International Conference on Multimedia Retrieval. [Link](https://dl.acm.org/citation.cfm?id=3325009)
 
 * N van Noord, E Postma (2017) A learned representation of artist specific colourisation. ICCV Workshop on e-Heritage. [Link](/papers/conditcolour2017.pdf)
 
