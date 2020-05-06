@@ -1,4 +1,4 @@
-Hi, I'm Nanne van Noord and I'm a researcher working to unlock AV archives through Computer Vision and Machine Learning techniques in the scope of [CLARIAH](https://clariah.nl/). My research interests include:
+Hi, I'm Nanne van Noord and I'm a Postdoc working at the University of Amsterdam and the [Netherlands institute of Sound and Vision](https://beeldengeluid.nl/en) to enrich media content with Computer Vision and Machine Learning techniques in the scope of [CLARIAH](https://clariah.nl/). My research interests include:
 
 * Machine Learning
 * Representation Learning
