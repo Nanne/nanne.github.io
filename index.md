@@ -7,5 +7,5 @@ Hi, I'm Nanne van Noord and I'm a Postdoc working at the University of Amsterdam
 
 I wrote my PhD thesis at Tilburg University on representation learning for artistic style, the digital version of which can be found [here](/papers/thesis.pdf).
 
-After my PhD I worked at the Informatics Institute of the University of Amsterdam, on the [SEMIA](https://sensorymovingimagearchive.humanities.uva.nl/) project. 
-Where I developed techniques for exploring AV archives based on perceptual and sensory features.
+After my PhD I worked at the Informatics Institute of the University of Amsterdam, on the [SEMIA](https://sensorymovingimagearchive.humanities.uva.nl/) project, 
+where I developed techniques for exploring AV archives based on perceptual and sensory features.
