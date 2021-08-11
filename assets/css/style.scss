@@ -1,14 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "plain";
 
-#social {
-  margin-bottom: 40px;
-  text-align : left;
-}
+{% if site.plainwhite.search %}
+  @import "search";
+{% endif %}
 
-div#publications ul li {
-    list-style : none;
-    padding-left : 0px;
-}
+{%- if site.plainwhite.dark_mode -%}
+  @import "toggle";
+  @import "dark";
+{%- endif -%}

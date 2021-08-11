@@ -1,18 +1,37 @@
-theme: jekyll-theme-tactile
+theme: plainwhite
 title:       "Nanne"
 email:       nannevannoord@gmail.com
 author:      Nanne van Noord
 url:         "http://nanne.github.io"
-description: "Page with very little info about me"
-show_downloads: "false"
+description: "Nanne's website"
+show_excerpts: true
 
-# Social icons
-github_username: nanne
-scholar_username: wFDJzDkAAAAJ
-twitter_username: nannevn
+plainwhite:
+  name: Nanne van Noord
+  tagline: Assistant Professor of Visual Culture and Multimedia
+  date_format: "%b %-d, %Y"
+  sitemap: true 
+  search: false 
+  dark_mode: true
+  portfolio_image: "assets/me.png" 
+  html_lang: "en" 
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    twitter: nannevn
+    github:  nanne
+    scholar: wFDJzDkAAAAJ
+  navigation: 
+    - title: About
+      url: "/about"
+    - title: Contact
+      url: "mailto:n.j.e.vannoord@uva.nl"
 
 # Build settings
 markdown:     kramdown
 permalink:    pretty
 sass:
-  compressed: true
+        sass_dir: _sass
