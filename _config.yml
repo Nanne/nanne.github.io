@@ -1,3 +1,5 @@
+remote_theme: samarsault/plainwhite-jekyll
+
 theme: plainwhite
 title:       "Nanne"
 email:       nannevannoord@gmail.com
@@ -31,7 +33,6 @@ plainwhite:
       url: "mailto:n.j.e.vannoord@uva.nl"
 
 # Build settings
-remote_theme: samarsault/plainwhite-jekyll
 markdown:     kramdown
 permalink:    pretty
 sass:
