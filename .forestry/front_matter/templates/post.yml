@@ -13,3 +13,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _posts/hiring-a-phd-student.md
