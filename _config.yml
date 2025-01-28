@@ -21,7 +21,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: nannevn
+    bluesky: nanne.bsky.social
     github:  nanne
     scholar: wFDJzDkAAAAJ
   navigation: 
