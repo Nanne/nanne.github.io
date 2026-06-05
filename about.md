@@ -4,7 +4,7 @@ layout: page
 
 # About me
 
-Hi, I'm Nanne and I'm an Assistant Professor in the [Multimedia Analytics](https://multix.io/) lab of the University of Amsterdam. I'm interested in improving **Multimedia Analysis** with and for **Visual Culture**.
+Hi, I'm Nanne and I'm Associate Professor in the [Multimedia Analytics](https://multix.io/) lab of the University of Amsterdam. I'm interested in improving **Multimedia Analysis** with and for **Visual Culture**.
 
 Before this I was a Postdoc in [CREATE](https://www.create.humanities.uva.nl) working to improve the Computer Vision capabilties of the [CLARIAH](https://clariah.nl) infrastructure. This followed my first Postdoc position at the [ISIS group](https://ivi.fnwi.uva.nl/isis/) in the [SEMIA](https://sensorymovingimagearchive.humanities.uva.nl/) project. In SEMIA I worked on techniques for exploring AV archives based on perceptual and sensory features. 
 
